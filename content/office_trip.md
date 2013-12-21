@@ -2,7 +2,7 @@ Title: Office Trip
 Date: 2013-12-21 13:02
 Category: personal
 Tags: office, personal, travel
-Slug: offie-trip
+Slug: office-trip
 Author: Vaibhav Mishra
 Summary: Dion Office Trip
 
