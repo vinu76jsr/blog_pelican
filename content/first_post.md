@@ -6,5 +6,8 @@ Slug: first-post
 Author: Vaibhav Mishra
 Summary: first
 
-My intention is to do regular blogging on this location, this is the obligatory first post to test if everything
+My intention is to do regular blogging on this location,
+this is the obligatory first post to test if everything
 is set up properly.
+
+Note: this post now serve no purpose
