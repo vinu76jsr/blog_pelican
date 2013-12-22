@@ -13,8 +13,8 @@ is part of a very successful movie
 franchise and as the title suggest, it's the 3rd part of
  the same, the story didn't tie up
 to the previous movie except lead good guys are the same
-and are cops, the movie had a very funky gadgets particularly what Amir
-during the course of the movie mostly to do with his Bike,
+and are cops, the movie had very funky gadgets, particularly Amir's
+character during the course of the movie and mostly to do with his Bike,
 
 Katrina was as usual there just for the dance numbers however her
 acting has improved a lot in the recent couple of years, the dance numbers
