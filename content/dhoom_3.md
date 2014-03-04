@@ -7,7 +7,7 @@ Author: Vaibhav Mishra
 Summary: dhoom 3 movie review
 
 Today I went on to see Dhoom 3 after a previous arrangement was
- cancelled and I had
+ canceled and I had
 a lot of unplanned time, for the uninitiated Dhoom 3
 is part of a very successful movie
 franchise and as the title suggest, it's the 3rd part of

@@ -57,6 +57,14 @@ def cf_upload():
           'upload -c {cloudfiles_container} .'.format(**env))
 
 
+def clean_backup_files():
+    """
+    Cleanup for *.bak files created by aspell
+
+    """
+    local("rm -r content/*.bak")
+
+
 @hosts(production)
 def publish():
     rebuild()

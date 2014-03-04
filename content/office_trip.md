@@ -11,10 +11,10 @@ Yesterday, I came back from a 2 day office trip to Khashid
 otherwise disparate team, we left Thursday morning via
 bus to Kashid Beach although with a delay of about 1 hour,
 according to official itinerary, the schedule time for departure
- was 9:00 AM but in the wise words of our GameMaster Rahul
+ was 9:00 AM but in the wise words of our Game-Master Rahul
  _Rules are meant to be broken_, a delay should not be considered
  in normal context a breakage of rule but
-just a minor inconvenience and not neccessarily a bad thing.
+just a minor inconvenience and not necessarily a bad thing.
 
 The journey was via bus and took around 4 hours,
 to keep us entertained for the journey,
