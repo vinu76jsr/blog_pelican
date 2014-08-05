@@ -4,10 +4,11 @@ Category: misc
 Tags: blog
 Slug: first-post
 Author: Vaibhav Mishra
-Summary: first
+Summary: first post
 
 My intention is to do regular blogging on this location,
 this is the obligatory first post to test if everything
 is set up properly.
 
-Note: this post now serve no purpose
+Note: this post does not server any purpose.
+
