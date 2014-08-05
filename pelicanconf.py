@@ -25,13 +25,17 @@ TRANSLATION_FEED_ATOM = None
 SOCIAL = (('twitter', 'http://twitter.com/vinu76jsr'),
           ('facebook', 'http://facebook.com/mishravaibhav'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
-THEME = '/Users/vaibhav/Developer/pelican-themes/mnmlist'
-#Good chunk, crowsfoot, elegant, html5 dopetrope
-# iris mnmlist niu-x2 pelican-cait pelican-mockingbird simple-bootstrap
+THEME = '/Users/vaibhav/Developer/pelican-themes/elegant'
+#Good chunk, crowsfoot, elegant(best), html5 dopetrope
+# iris(best) mnmlist niu-x2(good) pelican-cait pelican-mockingbird simple-bootstrap
 # svbtle
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 GITHUB_URL = 'http://github.com/vinu76jsr'
 TWITTER_USERNAME = 'vinu76jsr'
+
+MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
+
+SITESUBTITLE = 'DEVELOPER'
