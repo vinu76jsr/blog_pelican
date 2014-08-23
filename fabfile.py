@@ -32,7 +32,7 @@ def rebuild():
 
 
 def regenerate():
-    local('pelican -r -s pelicanconf.py')
+    local('pelican content/ -r -s pelicanconf.py')
 
 
 def serve():
@@ -68,7 +68,7 @@ def clean_backup_files():
 @hosts(production)
 def publish():
     rebuild()
-    local('pelican -s publishconf.py')
+    local('pelican content/ -s publishconf.py')
     project.rsync_project(
         remote_dir=dest_path,
         exclude=".DS_Store",

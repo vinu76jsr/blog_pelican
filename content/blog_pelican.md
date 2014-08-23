@@ -1,0 +1,2 @@
+install pelican 
+install markdown

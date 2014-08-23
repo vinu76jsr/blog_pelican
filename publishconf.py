@@ -24,3 +24,4 @@ DISQUS_SITENAME = "vaibhavmishra"
 GOOGLE_ANALYTICS = "UA-46700716-1"
 GITHUB_URL = 'http://github.com/vinu76jsr'
 TWITTER_USERNAME = 'vinu76jsr'
+DISPLAY_PAGES_ON_MENU = True
